@@ -7,7 +7,7 @@ public class TextBox {
         this.text = text;
     }
 
-    public void clear() {
+    public void clear() { // method
         this.text = "";
     }
 }

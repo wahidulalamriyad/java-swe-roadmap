@@ -20,5 +20,4 @@ public class PrimitiveTypes {
         System.out.println("Character: " + d);
         System.out.println("Boolean: " + isJavaFun);
     }
-
 }

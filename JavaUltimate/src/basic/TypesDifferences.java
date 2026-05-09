@@ -14,5 +14,4 @@ public class TypesDifferences {
         p1.y = 3;
         System.out.println("Reference type p2.x: " + p2.y);
     }
-
 }

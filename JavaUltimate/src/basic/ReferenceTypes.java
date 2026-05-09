@@ -7,5 +7,4 @@ public class ReferenceTypes {
         Date now = new Date();
         System.out.println("Current date: " + now);
     }
-
 }
